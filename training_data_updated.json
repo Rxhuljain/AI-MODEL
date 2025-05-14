@@ -1,0 +1,1066 @@
+{
+    "greetings": {
+        "patterns": [
+            "hello",
+            "hi",
+            "hey",
+            "howdy",
+            "greetings",
+            "good morning",
+            "good afternoon",
+            "good evening",
+            "what's up",
+            "yo",
+            "sup"
+        ],
+        "responses": [
+            "Hello! I'm MindMate, a companion designed specifically for men's mental wellbeing. What's on your mind today?",
+            "Hi there. I'm here to listen and chat without judgment. How are you feeling today?",
+            "Hey! I'm MindMate. I'm here to provide a space where you can express yourself freely. What would you like to talk about?"
+        ]
+    },
+    "stress": {
+        "patterns": [
+            "stressed",
+            "pressure",
+            "overwhelmed",
+            "too much",
+            "can't handle",
+            "burnout",
+            "stress",
+            "stressful",
+            "tension",
+            "pressure",
+            "burden",
+            "overload"
+        ],
+        "responses": [
+            "It sounds like you're dealing with a lot of stress. Many men experience this but don't always talk about it. What specific situations are causing you to feel this way?",
+            "Feeling overwhelmed is common, especially when juggling work, relationships, and personal expectations. What's contributing most to your stress right now?",
+            "I hear that you're feeling under pressure. Sometimes taking a step back to identify what's in your control can help. Would you like to explore some practical stress management techniques?"
+        ],
+        "follow_ups": [
+            "Have you tried any particular ways to manage this stress?",
+            "How has this stress been affecting other areas of your life like sleep or appetite?",
+            "On a scale of 1-10, how would you rate your current stress level?",
+            "Physical activity can be effective for stress management. Have you been able to stay active lately?",
+            "What helped you handle similar situations in the past?"
+        ],
+        "resources": [
+            "HeadsUpGuys has some excellent stress management tools specifically for men: https://headsupguys.org/practical-tips-manage-stress/",
+            "Many men find exercise, mindfulness practices, or talking with friends helpful for managing stress."
+        ]
+    },
+    "sleep": {
+        "patterns": [
+            "can't sleep",
+            "insomnia",
+            "trouble sleeping",
+            "awake at night",
+            "sleep problems",
+            "tired",
+            "exhausted",
+            "fatigue",
+            "nightmares",
+            "sleep schedule",
+            "bed early but"
+        ],
+        "responses": [
+            "Sleep difficulties can really impact mental wellbeing. What's your sleep pattern been like recently?",
+            "Many men struggle with sleep, especially during stressful periods. Have you noticed any patterns with your sleep troubles?",
+            "Sleep problems can both result from and contribute to mental health challenges. How long have you been experiencing these sleep issues?"
+        ],
+        "follow_ups": [
+            "Have you tried any sleep hygiene techniques, like limiting screen time or caffeine before bed?",
+            "How is your sleep environment? Sometimes small changes like room temperature or light can make a difference.",
+            "Many find that having a consistent bedtime routine helps. What does your evening routine look like?",
+            "Some men find that mental chatter keeps them awake. Does your mind race when trying to sleep?",
+            "Do you use any sleep tracking tools or apps? Sometimes understanding your sleep patterns can help identify solutions."
+        ],
+        "resources": [
+            "The Sleep Foundation has evidence-based strategies that many men find helpful: https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep"
+        ]
+    },
+    "relationships": {
+        "patterns": [
+            "relationship",
+            "partner",
+            "girlfriend",
+            "boyfriend",
+            "wife",
+            "husband",
+            "marriage",
+            "dating",
+            "breakup",
+            "divorce",
+            "separated",
+            "fight with",
+            "argument",
+            "trust issues"
+        ],
+        "responses": [
+            "Relationships can bring both fulfillment and challenges. What aspects of your relationship have been on your mind?",
+            "Many men find it difficult to discuss relationship concerns. I appreciate you bringing this up. What's specifically going on with your relationship?",
+            "Navigating relationships takes work and good communication. What particular situation would you like to explore?"
+        ],
+        "follow_ups": [
+            "Have you been able to discuss these feelings directly with your partner?",
+            "What would an ideal resolution to this situation look like for you?",
+            "How have these relationship dynamics affected your overall wellbeing?",
+            "Sometimes men feel pressure to fix relationship problems immediately. Are you giving yourself space to process your feelings about this?",
+            "What have you learned from past relationship experiences that might be helpful now?"
+        ],
+        "resources": [
+            "The Gottman Institute offers evidence-based relationship advice that many men find practical: https://www.gottman.com/blog/"
+        ]
+    },
+    "work": {
+        "patterns": [
+            "job",
+            "career",
+            "workplace",
+            "boss",
+            "coworker",
+            "employment",
+            "work",
+            "fired",
+            "layoff",
+            "promotion",
+            "business",
+            "salary",
+            "income",
+            "unemployed",
+            "looking for work",
+            "interview",
+            "hate my job"
+        ],
+        "responses": [
+            "Work can be a significant source of both identity and stress for many men. What's been happening in your work life?",
+            "Many men tie their sense of self closely to their work. How has your job been affecting your mental state lately?",
+            "Workplace challenges can spill over into other areas of life. What specific aspects of work have been difficult?"
+        ],
+        "follow_ups": [
+            "How does your current job align with your longer-term goals or values?",
+            "What parts of your work do you find most meaningful or rewarding?",
+            "Have you been able to maintain boundaries between work and personal time?",
+            "Work stress affects many men. What strategies have helped you manage work pressure in the past?",
+            "Have you considered what success means to you personally, beyond the traditional metrics of advancement or income?"
+        ],
+        "resources": [
+            "Mind Tools has practical workplace strategies: https://www.mindtools.com/pages/main/newMN_TCS.htm"
+        ]
+    },
+    "emotions": {
+        "patterns": [
+            "feelings",
+            "angry",
+            "sad",
+            "happy",
+            "upset",
+            "emotional",
+            "mood",
+            "depression",
+            "anxiety",
+            "feeling",
+            "depressed",
+            "anxious",
+            "grief",
+            "loss",
+            "numb",
+            "can't feel",
+            "overwhelmed",
+            "crying"
+        ],
+        "responses": [
+            "Thank you for sharing how you're feeling. Many men find it difficult to express emotions. Can you tell me more about what triggered these feelings?",
+            "I appreciate you opening up about your emotions. That takes courage. When did you start feeling this way?",
+            "Emotions provide important information about our needs and experiences. How have you been managing these feelings?"
+        ],
+        "follow_ups": [
+            "How do these emotions show up physically in your body?",
+            "What strategies have helped you process similar feelings in the past?",
+            "Have you noticed any patterns around when these emotions are strongest?",
+            "Many men are taught to suppress certain emotions. Has that been part of your experience?",
+            "If you could express these emotions freely without judgment, what would that look like?"
+        ],
+        "resources": [
+            "Man Therapy offers a straightforward approach to men's emotional health: https://mantherapy.org/"
+        ]
+    },
+    "isolation": {
+        "patterns": [
+            "lonely",
+            "alone",
+            "isolated",
+            "no friends",
+            "no one understands",
+            "disconnected",
+            "loneliness",
+            "social anxiety",
+            "hard to connect",
+            "don't fit in",
+            "outsider",
+            "no one to talk to"
+        ],
+        "responses": [
+            "Feeling isolated is a common but difficult experience. How long have you been feeling this way?",
+            "Social connection is important for wellbeing, and it's meaningful that you're sharing these feelings. What has contributed to this sense of isolation?",
+            "Many men experience loneliness but don't always talk about it. What kind of connections would you like to have in your life?"
+        ],
+        "follow_ups": [
+            "Are there people in your life you feel you could reach out to, even for something small like coffee?",
+            "What activities or groups have helped you feel connected to others in the past?",
+            "Has there been a change in your social circumstances recently?",
+            "Sometimes joining activity-based groups can be easier than purely social situations. Are there any interests you might explore with others?",
+            "How do you define meaningful connection? Not all relationships need to be deep to be valuable."
+        ],
+        "resources": [
+            "The Men's Shed movement has been effective for many men seeking connection: https://menssheds.org/"
+        ]
+    },
+    "anger": {
+        "patterns": [
+            "angry",
+            "anger",
+            "rage",
+            "furious",
+            "pissed off",
+            "irritated",
+            "lose my temper",
+            "blow up",
+            "short fuse",
+            "temper",
+            "lash out",
+            "outburst",
+            "snapping at people",
+            "road rage"
+        ],
+        "responses": [
+            "Anger is a normal emotion that can sometimes be challenging to manage. What situations tend to trigger your anger?",
+            "Many men experience intense anger at times. Can you tell me more about how this has been affecting you?",
+            "Thank you for bringing this up. Understanding anger patterns is important. How do you typically express anger?"
+        ],
+        "follow_ups": [
+            "Do you notice any physical sensations when you start getting angry?",
+            "What strategies have helped you manage anger effectively in the past?",
+            "Is your anger sometimes a response to other emotions like hurt or fear?",
+            "How does your anger affect your relationships with others?",
+            "Have you identified any warning signs that your anger is building before you reach a breaking point?"
+        ],
+        "resources": [
+            "The APA has practical anger management strategies: https://www.apa.org/topics/anger/control"
+        ]
+    },
+    "substance_use": {
+        "patterns": [
+            "drinking",
+            "alcohol",
+            "drugs",
+            "substance",
+            "using",
+            "weed",
+            "marijuana",
+            "cocaine",
+            "pills",
+            "smoke",
+            "drinking too much",
+            "addiction",
+            "recovery",
+            "sober",
+            "relapse",
+            "get high"
+        ],
+        "responses": [
+            "Many men use substances to cope with difficult feelings or situations. What role has this been playing in your life?",
+            "Thank you for bringing this up. How has your substance use been affecting your daily functioning?",
+            "I appreciate your openness about this. Have you noticed any patterns with your substance use related to stress or emotions?"
+        ],
+        "follow_ups": [
+            "Have you tried to change your substance use patterns before? How did that go?",
+            "How does using affect your mood or mental state afterward?",
+            "Has anyone in your life expressed concern about your substance use?",
+            "What benefits do you think you get from using, and what downsides have you noticed?",
+            "Do you have specific goals regarding your substance use, whether that's moderation or abstinence?"
+        ],
+        "resources": [
+            "SAMHSA offers confidential help and information: Call 1-800-662-HELP or visit https://www.samhsa.gov/find-help"
+        ]
+    },
+    "purpose": {
+        "patterns": [
+            "purpose",
+            "meaning",
+            "meaningless",
+            "pointless",
+            "what's the point",
+            "direction",
+            "lost",
+            "empty",
+            "no purpose",
+            "aimless",
+            "rudderless",
+            "going through motions",
+            "existential",
+            "meaning of life"
+        ],
+        "responses": [
+            "Questions about meaning and purpose are part of the human experience. What areas of your life currently feel meaningful?",
+            "Many men go through periods of questioning their purpose. How long have you been feeling this way?",
+            "Thank you for sharing something so significant. Can you tell me more about what's led to these thoughts about purpose?"
+        ],
+        "follow_ups": [
+            "What activities or experiences have given you a sense of purpose in the past?",
+            "Has there been a significant change or transition in your life recently?",
+            "Sometimes connecting to values can help clarify purpose. What matters most to you in life?",
+            "Have you considered small experiments with new activities that might feel meaningful?",
+            "Purpose doesn't have to be grand or world-changing to be valuable. What small ways might you make a difference?"
+        ],
+        "resources": [
+            "Many men find meaning through service to others, creative pursuits, or connecting with something larger than themselves."
+        ]
+    },
+    "physical_health": {
+        "patterns": [
+            "health",
+            "pain",
+            "doctor",
+            "medical",
+            "sick",
+            "illness",
+            "disease",
+            "body",
+            "weight",
+            "exercise",
+            "fitness",
+            "chronic pain",
+            "disability",
+            "injury",
+            "diagnosis",
+            "gaining weight",
+            "losing weight"
+        ],
+        "responses": [
+            "Physical and mental health are closely connected. How has your physical wellbeing been lately?",
+            "Many men notice that physical health issues affect their mood and mental state. What specific concerns do you have?",
+            "Taking care of your body is an important part of mental health. What aspects of your physical health would you like to discuss?"
+        ],
+        "follow_ups": [
+            "Have you been able to discuss these physical health concerns with a healthcare provider?",
+            "How has this been affecting your daily functioning or quality of life?",
+            "Exercise can significantly impact mental health. Have you been able to stay physically active?",
+            "Have you noticed connections between physical symptoms and stress or emotional states?",
+            "What small steps toward better physical health might be manageable for you right now?"
+        ],
+        "resources": [
+            "The Men's Health Forum provides evidence-based health information: https://www.menshealthforum.org.uk/"
+        ]
+    },
+    "fatherhood": {
+        "patterns": [
+            "father",
+            "dad",
+            "son",
+            "daughter",
+            "children",
+            "kids",
+            "parent",
+            "parenting",
+            "family",
+            "raising kids",
+            "stepfather",
+            "custody",
+            "child support",
+            "new dad",
+            "becoming a father"
+        ],
+        "responses": [
+            "Fatherhood can bring both joy and challenges. What aspects of being a father have been on your mind?",
+            "Many men find that parenthood brings up unexpected emotions. How has your experience as a father been affecting you?",
+            "Being a dad is an important role. What specific situations related to fatherhood would you like to discuss?"
+        ],
+        "follow_ups": [
+            "What parts of fatherhood do you find most rewarding?",
+            "What parts do you find most challenging?",
+            "How do you balance your needs with your responsibilities as a father?",
+            "Many fathers worry about whether they're doing a good job. Is that something you experience?",
+            "How has your own experience of being parented influenced your approach to fatherhood?"
+        ],
+        "resources": [
+            "Fatherly offers practical advice and support for dads: https://www.fatherly.com/",
+            "Many communities have father-specific support groups that provide connection and advice."
+        ]
+    },
+    "identity": {
+        "patterns": [
+            "who am I",
+            "identity",
+            "role",
+            "man",
+            "masculinity",
+            "manhood",
+            "not man enough",
+            "failure as a man",
+            "what it means to be a man",
+            "societal expectations",
+            "gender",
+            "traditional",
+            "real men",
+            "macho"
+        ],
+        "responses": [
+            "Questions about identity and masculinity are common. How do you currently think about what it means to be a man?",
+            "Many men navigate expectations about masculinity and identity. What aspects have been challenging for you?",
+            "Society often gives men mixed messages about identity. How has this affected your sense of self?"
+        ],
+        "follow_ups": [
+            "What qualities or values do you most admire in other men you respect?",
+            "Have your ideas about masculinity changed over time?",
+            "What pressures or expectations do you feel about being a man?",
+            "What parts of traditional masculinity work for you, and what parts don't feel authentic?",
+            "If you could define masculinity on your own terms, what would that look like?"
+        ],
+        "resources": [
+            "The Representation Project explores modern masculinity: https://therepproject.org/resources/"
+        ]
+    },
+    "trauma": {
+        "patterns": [
+            "trauma",
+            "abuse",
+            "assault",
+            "ptsd",
+            "flashback",
+            "nightmare",
+            "hurt",
+            "bullied",
+            "traumatic",
+            "violence",
+            "victim",
+            "survived",
+            "childhood trauma",
+            "combat",
+            "military",
+            "trigger",
+            "triggered"
+        ],
+        "responses": [
+            "I appreciate you sharing something so personal. Trauma can have lasting effects on our wellbeing. How has this been affecting you?",
+            "Thank you for your courage in bringing this up. Many men carry the impact of difficult experiences. Would you like to share more about how this is affecting you now?",
+            "Past traumatic experiences can continue to influence our present. How have you been managing these memories or feelings?"
+        ],
+        "follow_ups": [
+            "Have you been able to talk with a professional about these experiences?",
+            "What strategies have been helpful for you in managing difficult memories or feelings?",
+            "How has this affected your relationships or daily functioning?",
+            "Healing from trauma takes time. Have you noticed any progress in how you're coping?",
+            "Safety is important when processing trauma. Do you feel you have enough support right now?"
+        ],
+        "resources": [
+            "The PTSD Foundation of America offers support specifically for trauma: https://ptsdusa.org/",
+            "Professional support from a trauma-informed therapist can be very beneficial for processing traumatic experiences."
+        ]
+    },
+    "suicide": {
+        "patterns": [
+            "suicide",
+            "kill myself",
+            "end my life",
+            "die",
+            "better off dead",
+            "no point living",
+            "can't go on",
+            "don't want to be alive",
+            "everyone would be better without me",
+            "my family would be better off"
+        ],
+        "responses": [
+            "I'm concerned about what you're sharing. If you're having thoughts of suicide, please reach out to immediate support by calling 988 in the US for the National Suicide Prevention Lifeline. Would you like more crisis resources?",
+            "Thank you for trusting me with these feelings. Thoughts of suicide require immediate professional support. Please call 988 (US) to speak with someone right away. Your life matters.",
+            "I'm taking what you're saying seriously. If you're in immediate danger, please call emergency services (911 in the US) or go to your nearest emergency room. The 988 Suicide and Crisis Lifeline is also available 24/7."
+        ],
+        "resources": [
+            "National Suicide Prevention Lifeline: Call or text 988 (US)",
+            "Crisis Text Line: Text HOME to 741741",
+            "Veterans Crisis Line: Call 988 then press 1",
+            "If you're outside the US, please visit https://findahelpline.com/i/iasp"
+        ]
+    },
+    "confidence": {
+        "patterns": [
+            "confidence",
+            "self-esteem",
+            "insecure",
+            "not good enough",
+            "impostor syndrome",
+            "fake it",
+            "compare myself",
+            "low confidence",
+            "self-doubt",
+            "validation",
+            "approval",
+            "criticism"
+        ],
+        "responses": [
+            "Many men experience struggles with confidence. What specific situations tend to trigger self-doubt for you?",
+            "Self-confidence can fluctuate throughout life. What areas do you feel most confident in, and where do you notice more insecurity?",
+            "It takes courage to acknowledge feelings of insecurity. When did you first notice these confidence issues?"
+        ],
+        "follow_ups": [
+            "How do these confidence concerns affect your daily choices or behaviors?",
+            "What are some of your strengths that you might be overlooking?",
+            "Sometimes we hold ourselves to higher standards than we would others. Is that something you experience?",
+            "What would feeling 'good enough' look like for you?",
+            "Small confidence wins can build over time. What's one small step you might take toward building confidence?"
+        ],
+        "resources": [
+            "Many find cognitive-behavioral techniques helpful for building confidence and challenging negative self-talk."
+        ]
+    },
+    "success": {
+        "patterns": [
+            "success",
+            "achievement",
+            "failure",
+            "goals",
+            "ambition",
+            "competition",
+            "winning",
+            "losing",
+            "behind in life",
+            "compare to others",
+            "expectations",
+            "disappointment",
+            "legacy",
+            "potential"
+        ],
+        "responses": [
+            "The concept of success is deeply personal yet often influenced by external standards. How do you define success for yourself?",
+            "Many men feel pressure around achievement and success. What specific areas of success or achievement have been on your mind?",
+            "Balancing ambition with wellbeing can be challenging. How have your goals or expectations been affecting you?"
+        ],
+        "follow_ups": [
+            "Whose expectations about success seem to matter most to you?",
+            "How might your definition of success evolve over time?",
+            "In what ways have you already succeeded that you might not be acknowledging?",
+            "How does your pursuit of success affect your relationships and wellbeing?",
+            "If you were free from others' judgments, what would success look like for you?"
+        ],
+        "resources": [
+            "Defining success on your own terms is an important part of wellbeing and can reduce harmful comparison with others."
+        ]
+    },
+    "body_image": {
+        "patterns": [
+            "body image",
+            "how I look",
+            "appearance",
+            "weight",
+            "skinny",
+            "fat",
+            "muscle",
+            "attractive",
+            "ugly",
+            "aging",
+            "hair loss",
+            "balding",
+            "mirror",
+            "hate my body",
+            "gym"
+        ],
+        "responses": [
+            "Body image concerns affect many men, though they're often less discussed. How has your relationship with your body been impacting you?",
+            "Thanks for bringing this up. How we feel about our bodies can significantly affect our wellbeing. What specific aspects of your appearance have been on your mind?",
+            "Many men experience pressure about physical appearance, whether it's muscle mass, weight, or other features. What has your experience been?"
+        ],
+        "follow_ups": [
+            "Where do you think these expectations about how you should look come from?",
+            "Has your relationship with your body changed over time?",
+            "How might you focus more on what your body can do rather than how it looks?",
+            "How do you think social media or fitness culture has influenced your body image?",
+            "What would a healthier relationship with your body look like for you?"
+        ],
+        "resources": [
+            "The Body Image Movement provides resources for developing a healthier relationship with your body and appearance."
+        ]
+    },
+    "sexuality": {
+        "patterns": [
+            "sex",
+            "sexual",
+            "attraction",
+            "libido",
+            "erectile",
+            "performance",
+            "intimacy",
+            "sexuality",
+            "orientation",
+            "gay",
+            "straight",
+            "bisexual",
+            "questioning",
+            "coming out",
+            "porn"
+        ],
+        "responses": [
+            "Sexual health and identity are important aspects of wellbeing. What specific aspects of sexuality would you like to discuss?",
+            "Thank you for bringing up this topic. Many men have questions or concerns around sexuality but find it difficult to discuss. What's been on your mind?",
+            "Sexual wellbeing encompasses many aspects including identity, function, and relationships. What particular area would you like to explore?"
+        ],
+        "follow_ups": [
+            "How have these concerns been affecting your relationships or wellbeing?",
+            "Have you been able to discuss these matters with a healthcare provider?",
+            "What resources or support might be helpful for you regarding this topic?",
+            "How have societal expectations around sexuality affected your experience?",
+            "What does a healthy sexual self-concept look like for you?"
+        ],
+        "resources": [
+            "Many healthcare providers specialize in sexual health and can offer confidential, evidence-based support."
+        ]
+    },
+    "grief": {
+        "patterns": [
+            "grief",
+            "loss",
+            "died",
+            "death",
+            "mourning",
+            "passed away",
+            "memorial",
+            "funeral",
+            "missing someone",
+            "anniversary of",
+            "lost my",
+            "bereavement"
+        ],
+        "responses": [
+            "I'm very sorry for your loss. Grief is a profound experience, and everyone processes it differently. How have you been coping?",
+            "Thank you for sharing about this significant loss. Grief can affect us in many ways. How has this loss been impacting you?",
+            "Losing someone or something important creates a deep response. What has your grief experience been like?"
+        ],
+        "follow_ups": [
+            "Have you found ways to honor your memories or connection with what you've lost?",
+            "Grief can be complicated and doesn't follow a linear path. Have you given yourself permission to grieve in your own way?",
+            "Have you been able to share your grief with others who might understand?",
+            "What aspects of grief have been most challenging for you?",
+            "Many men feel pressure to 'stay strong' during grief. Has that been your experience?"
+        ],
+        "resources": [
+            "GriefShare and other grief support groups can provide community during the grieving process."
+        ]
+    },
+    "financial_stress": {
+        "patterns": [
+            "money",
+            "financial",
+            "debt",
+            "bills",
+            "afford",
+            "rent",
+            "mortgage",
+            "loan",
+            "bankrupt",
+            "broke",
+            "paycheck",
+            "unemployed",
+            "job loss",
+            "poverty",
+            "can't pay",
+            "spending"
+        ],
+        "responses": [
+            "Financial stress can have a major impact on mental wellbeing. How has your financial situation been affecting you?",
+            "Many men feel significant pressure around financial stability. What specific financial concerns have been weighing on you?",
+            "Thank you for bringing this up. Financial challenges can be extremely stressful. What aspects of your financial situation are most concerning right now?"
+        ],
+        "follow_ups": [
+            "Have you been able to access any resources or support regarding financial management?",
+            "How has financial stress been affecting other areas of your life?",
+            "What small steps might help improve your financial situation?",
+            "Many people find it difficult to separate their self-worth from their financial status. Has that been true for you?",
+            "What would help you feel more in control of your financial situation?"
+        ],
+        "resources": [
+            "The National Foundation for Credit Counseling offers free or low-cost financial counseling: https://www.nfcc.org/"
+        ]
+    },
+    "motivation": {
+        "patterns": [
+            "motivation",
+            "procrastination",
+            "can't get started",
+            "lazy",
+            "no energy",
+            "stuck",
+            "discipline",
+            "willpower",
+            "apathy",
+            "unmotivated",
+            "postponing",
+            "putting off",
+            "get going"
+        ],
+        "responses": [
+            "Motivation fluctuates naturally, but persistent motivation issues can be challenging. What have you been trying to get motivated about?",
+            "Many people struggle with motivation at different points in life. What specific tasks or goals have been difficult to approach?",
+            "Motivation challenges can sometimes be related to other factors like values alignment or mental health. What patterns have you noticed with your motivation?"
+        ],
+        "follow_ups": [
+            "What makes these particular activities or goals difficult to start?",
+            "Have you noticed any patterns around when motivation is easier or harder?",
+            "Sometimes what seems like a motivation issue is actually about something else. Might there be other factors at play?",
+            "What small, manageable step could you take toward your goal?",
+            "How might you make the task more enjoyable or meaningful?"
+        ],
+        "resources": [
+            "Breaking tasks into smaller steps and using the 'two-minute rule' to start tasks can help overcome motivation barriers."
+        ]
+    },
+    "veterans": {
+        "patterns": [
+            "veteran",
+            "military",
+            "service",
+            "deployment",
+            "combat",
+            "war",
+            "army",
+            "navy",
+            "marines",
+            "air force",
+            "soldier",
+            "served",
+            "duty",
+            "civilian life",
+            "transition"
+        ],
+        "responses": [
+            "Thank you for your service. The transition from military to civilian life presents unique challenges. What aspects have been most significant for you?",
+            "Military service creates experiences that can be difficult for others to understand. How has your service affected your life and wellbeing?",
+            "Veterans face distinct challenges that deserve specialized support. What specific areas related to your service would you like to discuss?"
+        ],
+        "follow_ups": [
+            "Have you connected with other veterans who might share similar experiences?",
+            "What aspects of military culture do you miss, and what aspects of civilian life have been positive?",
+            "Have you accessed any veteran-specific resources or support services?",
+            "How has your identity shifted since transitioning from military service?",
+            "What strengths from your military experience serve you well in civilian life?"
+        ],
+        "resources": [
+            "The Veterans Crisis Line (988, then press 1) provides immediate support for veterans in crisis.",
+            "The VA offers a wide range of mental health services specifically for veterans: https://www.va.gov/health-care/health-needs-conditions/mental-health/"
+        ]
+    },
+    "life_transitions": {
+        "patterns": [
+            "transition",
+            "change",
+            "moving",
+            "relocation",
+            "new job",
+            "retirement",
+            "graduated",
+            "dropout",
+            "divorce",
+            "midlife",
+            "career change",
+            "empty nest",
+            "starting over",
+            "big decision"
+        ],
+        "responses": [
+            "Life transitions, even positive ones, can be challenging to navigate. What specific transition are you experiencing?",
+            "Changes often involve both losses and new possibilities. How has this transition been affecting you?",
+            "Navigating life changes requires adjustment and resilience. What aspects of this transition have been most significant?"
+        ],
+        "follow_ups": [
+            "What aspects of this change feel most challenging or uncertain?",
+            "What resources or support might help you navigate this transition?",
+            "What parts of yourself or your life do you want to maintain through this change?",
+            "What opportunities might this transition create, even amid the challenges?",
+            "How have you successfully navigated transitions in the past?"
+        ],
+        "resources": [
+            "Life transitions often trigger a reevaluation of priorities and values, which can ultimately lead to personal growth."
+        ]
+    },
+    "therapy_questions": {
+        "patterns": [
+            "therapist",
+            "therapy",
+            "counseling",
+            "psychologist",
+            "psychiatrist",
+            "mental health professional",
+            "treatment",
+            "medication",
+            "should I see someone",
+            "professional help",
+            "diagnosis"
+        ],
+        "responses": [
+            "Many men find therapy or counseling helpful for working through challenges. What questions do you have about professional mental health support?",
+            "Professional support can be valuable for mental wellbeing. What aspects of therapy or counseling are you curious about?",
+            "Seeking professional help is a sign of strength, not weakness. What specific concerns or questions do you have about therapy?"
+        ],
+        "follow_ups": [
+            "Have you had any experiences with therapy or counseling in the past?",
+            "What hopes or concerns do you have about working with a mental health professional?",
+            "Different types of therapy work better for different concerns. Do you have specific issues you'd want to address?",
+            "Many men prefer certain approaches to therapy, such as cognitive-behavioral or solution-focused methods. Does any particular approach interest you?",
+            "Would you prefer to work with a male or female therapist, or do you have no preference?"
+        ],
+        "resources": [
+            "Psychology Today's therapist finder is a good place to start looking for professional support: https://www.psychologytoday.com/us/therapists"
+        ]
+    },
+    "default": {
+        "responses": [
+            "I'm here to listen and support you. Could you share more about what's on your mind?",
+            "Thank you for sharing that. How has this been affecting you?",
+            "I appreciate you opening up. Would you like to explore this topic further?"
+        ]
+    },
+    "greeting": {
+        "patterns": [
+            "Hi",
+            "Hey",
+            "Is anyone there?",
+            "Hi there",
+            "Hello",
+            "Hey there",
+            "Howdy",
+            "Hola",
+            "Bonjour",
+            "Hay",
+            "Sasa",
+            "Good Evening",
+            "Good afternoon"
+        ],
+        "responses": [
+            "Hello there. Tell me how are you feeling today?",
+            "Hi there. What brings you here today?",
+            "Hi there. How are you feeling today?",
+            "Great to see you. How do you feel currently?",
+            "Hello there. Glad to see you're back. What's going on in your world right now?"
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "morning": {
+        "patterns": [
+            "Good morning"
+        ],
+        "responses": [
+            "Good morning. I hope you had a good night's sleep. How are you feeling today? "
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "afternoon": {
+        "patterns": [
+            "Good afternoon"
+        ],
+        "responses": [
+            "Good afternoon. How is your day going?"
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "evening": {
+        "patterns": [
+            "Good evening"
+        ],
+        "responses": [
+            "Good evening. How has your day been?"
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "night": {
+        "patterns": [
+            "Good night"
+        ],
+        "responses": [
+            "Good night. Get some proper sleep",
+            "Good night. Sweet dreams."
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "goodbye": {
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Au revoir",
+            "Sayonara",
+            "ok bye",
+            "Bye then",
+            "Fare thee well"
+        ],
+        "responses": [
+            "See you later.",
+            "Have a nice day.",
+            "Bye! Come back again.",
+            "I'll see you soon."
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "thanks": {
+        "patterns": [
+            "Thanks",
+            "Thank you",
+            "That's helpful",
+            "Thanks for the help",
+            "Than you very much"
+        ],
+        "responses": [
+            "Happy to help!",
+            "Any time!",
+            "My pleasure",
+            "You're most welcome!"
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "no-response": {
+        "patterns": [
+            ""
+        ],
+        "responses": [
+            "Sorry, I didn't understand you.",
+            "Please go on.",
+            "Not sure I understand that.",
+            "Please don't hesitate to talk to me."
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "neutral-response": {
+        "patterns": [
+            "nothing much",
+            "nothing really",
+            "nothing"
+        ],
+        "responses": [
+            "Oh I see. Do you want to talk about something?"
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "about": {
+        "patterns": [
+            "Who are you?",
+            "What are you?",
+            "Who you are?",
+            "Tell me more about yourself.",
+            "What is your name?",
+            "What should I call you?",
+            "What's your name?",
+            "Tell me about yourself"
+        ],
+        "responses": [
+            "I'm MindMate, your Personal Therapeutic AI Assistant focused on men's mental health. How are you feeling today?",
+            "I'm MindMate, an AI Assistant designed to help with men's mental health concerns. Tell me about yourself.",
+            "I'm MindMate. I'm a conversational agent designed to assist with mental health support for men. How are you feeling today?",
+            "You can call me MindMate.",
+            "I'm MindMate!",
+            "Call me MindMate"
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "what_is_depression": {
+        "patterns": [
+            "what is depression?"
+        ],
+        "responses": [
+            "Depression is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Fortunately, it is also treatable. Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. It can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home."
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "skill": {
+        "patterns": [
+            "What can you do?"
+        ],
+        "responses": [
+            "I can provide tailored advice regarding anxiety, depression, stress, and other mental health challenges specific to men's experiences. I can answer questions related to mental health and engage in supportive conversations. Remember though, I'm not a substitute for professional healthcare. Please seek professional help if you need more support than I can provide."
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    }
+}

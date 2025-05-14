@@ -1,0 +1,43 @@
+{
+    "greeting": {
+        "patterns": [
+            "Hi",
+            "Hey",
+            "Is anyone there?",
+            "Hi there",
+            "Hello"
+        ],
+        "responses": [
+            "Hello there. Tell me how are you feeling today?",
+            "Hi there. What brings you here today?"
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    },
+    "goodbye": {
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye"
+        ],
+        "responses": [
+            "See you later.",
+            "Have a nice day.",
+            "Bye! Come back again."
+        ],
+        "follow_ups": [
+            "How long have you been feeling this way?",
+            "Would you like to explore this topic more deeply?",
+            "Have you discussed this with anyone else in your life?"
+        ],
+        "resources": [
+            "I can provide more information on this topic if you'd like."
+        ]
+    }
+}

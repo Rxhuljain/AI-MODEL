@@ -1,0 +1,270 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "message": "hi\n",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "Hello! I'm MindMate, a companion to talk about how you're doing. What's on your mind today?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "I am sad",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "I appreciate you opening up about your emotions. That takes courage. When did you start feeling this way? What helps you process these kinds of feelings when they arise?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "WHat is 2+2\n",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "I'm here to listen and support you. Could you share more about what's on your mind?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "hiqq",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "Hey! I'm MindMate. I'm here to provide a space where you can express yourself. What would you like to talk about?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "Hi",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "Hi there. I'm here to listen and chat without judgment. How are you feeling today?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "hi",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "Hey! I'm MindMate. I'm here to provide a space where you can express yourself freely. What would you like to talk about?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "i m sad",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "Your feelings are valid. Thank you for sharing how you're feeling. Many men find it difficult to express emotions. Can you tell me more about what triggered these feelings? Have you noticed any patterns around when these emotions are strongest?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "hi\n",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "It's completely understandable to feel that way. Hello! I'm MindMate, a companion designed specifically for men's mental wellbeing. What's on your mind today?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "Hi",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "It's completely understandable to feel that way. Hi there. I'm here to listen and chat without judgment. How are you feeling today?\n\nYour messages suggest you've been facing some challenges lately. Have you identified any patterns or triggers worth exploring?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "I am not feeling well",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "Many men experience similar emotions. I appreciate you opening up about your emotions. That takes courage. When did you start feeling this way? Many men are taught to suppress certain emotions. Has that been part of your experience?\n\nResource: Man Therapy offers a straightforward approach to men's emotional health: https://mantherapy.org/",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "Your feelings are valid. I appreciate you opening up. Let\\'s explore this topic further.",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "HI",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "Many men have similar experiences. Many men experience similar emotions. Hello! I'm MindMate, a companion designed specifically for men's mental wellbeing. What's on your mind today?\n\nYour messages suggest you've been facing some challenges lately. Have you identified any patterns or triggers worth exploring?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "hi",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "You're not alone in this. Many men experience similar emotions. Hey! I'm MindMate. I'm here to provide a space where you can express yourself freely. What would you like to talk about?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "Hey i am here to talk to mindmate about my health\n",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "bot",
+            "message": "This is actually quite common. Many men experience similar emotions. Hi there. I'm here to listen and chat without judgment. How are you feeling today?",
+            "timestamp": "2025-05-14 16:41:13"
+        },
+        {
+            "role": "user",
+            "message": "hi",
+            "timestamp": "2025-05-14 16:41:41"
+        },
+        {
+            "role": "bot",
+            "message": "This is actually quite common. Many men experience similar emotions. Hi there. I'm here to listen and chat without judgment. How are you feeling today?",
+            "timestamp": "2025-05-14 16:41:41"
+        },
+        {
+            "role": "user",
+            "message": "Hi",
+            "timestamp": "2025-05-14 16:46:32"
+        },
+        {
+            "role": "bot",
+            "message": "You're not alone in this. Many men experience similar emotions. Hello! I'm MindMate, your friendly health companion. How are you feeling today?",
+            "timestamp": "2025-05-14 16:46:32"
+        },
+        {
+            "role": "user",
+            "message": "hi",
+            "timestamp": "2025-05-14 16:46:43"
+        },
+        {
+            "role": "bot",
+            "message": "Thank you for opening up about this. This is actually quite common. It's completely understandable to feel that way. Hi there. I'm here to chat about your health and wellbeing. What's on your mind?",
+            "timestamp": "2025-05-14 16:46:43"
+        },
+        {
+            "role": "user",
+            "message": "hi",
+            "timestamp": "2025-05-14 16:48:14"
+        },
+        {
+            "role": "bot",
+            "message": "You're not alone in this. Many men experience similar emotions. Hey! I'm MindMate. I'm here as your health companion and friend. How can I support you today? Just discussing this shows real strength.",
+            "timestamp": "2025-05-14 16:48:14"
+        },
+        {
+            "role": "user",
+            "message": "Whay are u doing",
+            "timestamp": "2025-05-14 16:48:31"
+        },
+        {
+            "role": "bot",
+            "message": "Every small step matters in health and wellbeing. Many men have similar experiences. Taking action, even small steps, can help. I'm here to listen and support you. What share more about what's on your mind?",
+            "timestamp": "2025-05-14 16:48:31"
+        },
+        {
+            "role": "user",
+            "message": "Hey",
+            "timestamp": "2025-05-14 17:19:41"
+        },
+        {
+            "role": "bot",
+            "message": "Thank you for opening up about this. Many men have similar experiences. Taking action, even small steps, can help. Hi there. I'm here to chat about your health and wellbeing. What's on your mind? You're taking positive steps by talking about this.",
+            "timestamp": "2025-05-14 17:19:41"
+        },
+        {
+            "role": "user",
+            "message": "How r u ",
+            "timestamp": "2025-05-14 17:19:54"
+        },
+        {
+            "role": "bot",
+            "message": "You're not alone in this. Taking action, even small steps, can help. I appreciate you opening up. Let\\'s explore this topic further.",
+            "timestamp": "2025-05-14 17:19:54"
+        },
+        {
+            "role": "user",
+            "message": "I think i have trouble with something",
+            "timestamp": "2025-05-14 17:20:11"
+        },
+        {
+            "role": "bot",
+            "message": "This is actually quite common. Taking action, even small steps, can help. Hey! I'm MindMate. I'm here as your health companion and friend. How can I support you today?",
+            "timestamp": "2025-05-14 17:20:11"
+        },
+        {
+            "role": "user",
+            "message": "Can you help me with US helpline number",
+            "timestamp": "2025-05-14 17:20:31"
+        },
+        {
+            "role": "bot",
+            "message": "Many men have similar experiences. Hello! I'm MindMate, your friendly health companion. How are you feeling today?",
+            "timestamp": "2025-05-14 17:20:31"
+        },
+        {
+            "role": "user",
+            "message": "give me helpline number",
+            "timestamp": "2025-05-14 17:25:38"
+        },
+        {
+            "role": "bot",
+            "message": "This is actually quite common. Emotions provide important information about our needs and experiences. How have you been managing these feelings?\n\nResource: Man Therapy offers a straightforward approach to men's emotional health: https://mantherapy.org/\n\nRecent neuroimaging studies reveal that men may process emotional stimuli differently on average, with some research showing distinct patterns of brain activation when experiencing emotions like sadness or empathy. Many men have been socialized to interpret emotional vulnerability as weakness, creating barriers to emotional awareness.\n\nMen often benefit from understanding that emotions provide valuable information about needs and values rather than being problems to solve. Learning to identify emotions in the body (through physical sensations) can be particularly helpful for men who have difficulty naming feelings directly. Is there anything specific that makes it better or worse?",
+            "timestamp": "2025-05-14 17:25:38"
+        }
+    ],
+    "current_topic": "emotions",
+    "communication_style": "solution_focused",
+    "mood_tracking": {
+        "2025-05-14": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 19
+        }
+    },
+    "topic_frequency": {
+        "greetings": 21,
+        "emotions": 4,
+        "default": 2
+    },
+    "risk_factors": {
+        "suicide_risk": 0,
+        "isolation_level": 0,
+        "substance_concern": 0,
+        "mood_severity": 0
+    },
+    "user_preferences": {
+        "directness": 1.0,
+        "emotional_comfort": 0.6,
+        "help_seeking": 0.0,
+        "self_disclosure": 0.0
+    }
+}

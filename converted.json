@@ -1,0 +1,16 @@
+{
+  "greeting": {
+    "patterns": [
+      "Hi"
+    ],
+    "responses": [
+      "Hello"
+    ],
+    "follow_ups": [
+      "How are you feeling?"
+    ],
+    "resources": [
+      "I can provide more information."
+    ]
+  }
+}
